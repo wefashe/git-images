@@ -4,11 +4,11 @@
 
  
 
-![image-20200310202556](https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20200310202556.png "Typora图片设置")
+![image-20200310202556](/images/20200310202556.png "Typora图片设置")
 
 
 
-![image-20210112153344894](https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112153557.png)
+![image-20210112153344894](/images/20210112153557.png)
 
 
 
@@ -20,9 +20,7 @@
 
 `https://cdn.jsdelivr.net/gh/wefashe/git-images@master`
 
-![image-20210112155153463](https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112155305.png)
-
-使用默认分支时，可以不加分支名。 如`https://cdn.jsdelivr.net/gh/wefashe/git-images`
+![image-20210112155153463](/images/20210112155305.png)
 
 
 
@@ -34,4 +32,4 @@
 
 `https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112153045.png`
 
-![image-20210112155948605](https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112155953.png)
+![image-20210112155948605](/images/20210112155953.png)
