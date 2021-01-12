@@ -2,13 +2,11 @@
 
 > [GitHub](https://github.com/wefashe/git-images)+[Typora](https://www.typora.net/#windows)+[PicGo](https://github.com/Molunerfinn/PicGo/releases)+[jsDelivr](https://www.jsdelivr.com/?docs=gh "jsDelivr 是一个免费开源的 CDN 解决方案,是首个「打通中国大陆与海外的免费CDN服务」")
 
- 
-
-![image-20200310202556](/images/20200310202556.png "Typora图片设置")
 
 
+<img src="https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20200310202556.png">
 
-![image-20210112153344894](/images/20210112153557.png)
+<img src="https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112153557.png">
 
 
 
@@ -20,7 +18,7 @@
 
 `https://cdn.jsdelivr.net/gh/wefashe/git-images@master`
 
-![image-20210112155153463](/images/20210112155305.png)
+<img src="https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112155305.png">
 
 
 
@@ -32,4 +30,4 @@
 
 `https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112153045.png`
 
-![image-20210112155948605](/images/20210112155953.png)
+<img src="https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112175811.png">
