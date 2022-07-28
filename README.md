@@ -15,7 +15,7 @@
 CDN的两个功能：
 
 基础功能：可以提供静态文件内容
-主要功能：加速内容获取，提高访问速度
+主要功能：加速内容获取，提高访问速度  
 
 设定自定义域名：`https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名`
 
@@ -37,7 +37,7 @@ CDN的两个功能：
 
 <img src="https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112175811.png">
 
-**补充：**
+**补充：**  
 现在`jsdelivr`改为只能访问release的内容即只能加速访问发版后的内容
 可以右侧随便创建一个新的 relaese
 
