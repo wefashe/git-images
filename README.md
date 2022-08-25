@@ -17,7 +17,7 @@ CDN的两个功能：
 基础功能：可以提供静态文件内容
 主要功能：加速内容获取，提高访问速度  
 
-设定自定义域名：`https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名`
+设定自定义域名：`https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名` 或 `https://fastly.jsdelivr.net/gh/用户名/仓库名@分支名`
 
 例如：
 
