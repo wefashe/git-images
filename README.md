@@ -57,7 +57,7 @@ CDN的两个功能：
 
 
 
-**补充：**  <mark>补充内容已注释</mark>
+**补充：**  <mark>补充内容已注释</mark> 
 现在`jsdelivr`改为只能访问release的内容即只能加速访问发版后的内容
 可以右侧随便创建一个新的 relaese
 
@@ -121,6 +121,8 @@ jsDelivr：<https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/2024031
 githubusercontent：<https://raw.githubusercontent.com/wefashe/git-images/master/images/20240318093020.png>
 
 当上述两种都不能使用时，可以使用 [Github RAW 加速服务](https://gitmirror.com/raw.html)，只需要将上面githubusercontents图片链接中的`raw.githubusercontent.com`简单替换成`raw.gitmirror.com`即可，
+
+gitmirror：<https://raw.gitmirror.com/wefashe/git-images/master/images/20240318093020.png>
 
 可以设定自定义域名：`https://raw.gitmirror.com/用户名/仓库名/分支名`
 
